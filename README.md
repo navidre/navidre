@@ -11,4 +11,3 @@ Welcome to my GitHub profile! Here's a little more about me:
 ![Navid's GitHub trophies](https://github-profile-trophy.vercel.app/?username=navidre&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
-```` ▋
